@@ -1,0 +1,226 @@
+
+	"basics": 
+	{
+		"name": "Samruddhi Kulkarni",
+		"label": "MS ECE Georgia Tech",
+		"picture": "https://github.com/skulkarni307/skulkarni307.github.io/blob/master/Photo.jpg",
+		"email": "sskulk307@gatech.edu",
+		"phone": "(404)424-3829",
+		"website": "https://skulkarni307.github.io/",
+		"summary": "I am a Master's student in Electrical and Computer Engineering at Georgia Tech. I am passionate about developing technology driven solutions that ease, automate & benefit existing solutions.",
+		"location": {
+			"postalCode": "GA 30318",
+			"city": "Atlanta",
+			"countryCode": "US",
+		},
+		"willing to relocate":true,
+		"profiles": [{
+			"network": "LinkedIn",
+			"username": "samruddhi-s-kulkarni",
+			"url": "https://www.linkedin.com/in/samruddhi-s-kulkarni/"
+		},{
+			"network": "GitHub",
+			"username": "skulkarni307",
+			"url": "https://github.com/ars75"
+		}]
+	},
+	"work": [{
+		"company": "Ubiquitous Computing Research Group, Georgia Institute of Technology",
+		"position": "Graduate Research Assistant",
+		"website": "http://ubicomp.cc.gatech.edu/",
+		"startDate": "2019-06-19",
+		"endDate": "Present",
+		"summary": [Advisor: Prof. Gregory Abowd
+      "Technology: Python, scikit-learn,pandas, eating-gesture-recognition, android-feature-computation, Android Java",
+      ]
+		"highlights": [
+    "Worked on a study on eating and well-being in college students under a multi-institution project "CampusLife": An effort to improve student well-being through digital data"
+    "Build algorithm for android-based feature computation of raw sensor data, previously executed in Python in a Desktop environment"
+    "Developed pipeline for visualization (Plotly), cleaning & augmentation of data collected through self-report surveys, eating gesture raw data from off-the-shelf wrist watch and mobile application data."
+    "Build algorithm to test correlation between meal patterns, meal company/environment, mental well-being & mobile data"
+    "Recently research paper on this work to ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT) 2020 
+		]
+	},{
+		"company": "Department of Biomedical Informatics, Emory University",
+		"position": "Image Processing and ML Intern",
+		"website": "https://med.emory.edu/departments/biomedical-informatics/",
+		"startDate": "2019-05-05",
+		"endDate": "2019-08-02",
+		"summary": [
+      "Advisor: Gari Clifford, DPhil"
+      "Technology: Image Processing, OCR, Convolutional Neural Networks, Python, TensorFlow, Augmentor",
+		]
+    "highlights": [
+			"Worked on digitization of readings of medical device displays using images taken from a cellphone camera" 
+      "Build a deep learning model to recognize & monitor blood pressure(BP) readings of preeclamptic populations of rural Guatemala using cellphone camera images of digital BP meter displays collected in a study"
+      "Generated an artificial dataset using a blank BP LCD image and a realistic font, augmented by realistic noises similar in visual appearance to test data to improve estimation accuracy."
+      "Mean absolute error after estimation on artificial BP images: Systolic BP(0.1 mmHg), Diastolic BP(0.2 mmHg)"
+		]
+	},{
+		"company": "TQIntelligence",
+		"position": "Summer Intern",
+		"website": "https://tqintelligence.com/",
+		"startDate": "2019-05-13",
+		"endDate": "2019-08-02",
+		"summary": "Technology: Python, mySQL, triage, Docker, Linux, HTML, CSS",
+		"highlights": [ 
+      "Worked on a triage food inspection project using Linux, Docker & mySQL as a proof-of-concept of early-warning systems using a machine learning model
+      "Performed preprocessing on self-reported well-being data from patient, therapist and caregiver as well as patient audio data"
+      "Assisted with company website and interactive quizzes development"
+    ]
+	},
+	"education": [{
+		"institution": "Georgia Institute Of Technology",
+		"area": "Electrical and Computer Engineering",
+		"studyType": "Master of Science",
+		"startDate": "2018-08-02",
+		"endDate": "2020-05-01",
+		"gpa": "3.5",
+		"url": "https://www.ece.gatech.edu/",
+		"courses": [
+      "ECE6254 - Advanced Digital Signal Processing",
+      "ECE6258 - Digital Image Processing",
+      "ECE6250 - Statistical Machine Learning",
+      "ECE6255 - Digital Speech Processing",
+      "ECE8803 - Biomedical Sensing and Systems",
+      "BMED7610 - Medical Robotics",
+		]
+	},{
+		"institution": "University Of Pune",
+		"area": "Information Technology",
+		"studyType": "Bachelor of Engineering",
+		"startDate": "2011-01-01",
+		"endDate": "2013-01-01",
+		"gpa": "4.0",
+		"url": "http://www.unipune.ac.in/",
+		"courses": [
+			"210241 - Discrete Structures",
+			"214442 - Computer Organization",
+			"210243 - Digital Electronics and Logic Design",
+			"214441 - Fundamentals of Data Structures",
+			"207005 - Humanities and Social Sciences",
+			"214443 - Digital Lab",
+			"214444 - Programming Lab",
+			"214445 - Communication and Language Lab",
+			"207003 - Engineering Mathematics 3",
+			"214446 - Computer Graphics",
+			"214447 - Processor Architectures and Interfacing",
+			"214448 - Data Structures and Files",
+			"214449 - Data Communication",
+			"214450 - Processor Interfacing Lab",
+			"214451 - Data Structures and Files Lab",
+			"210253 - Object Oriented Programming Lab",
+			"314441 - Operating System",
+			"314442 - Theory Of Computation",
+			"314443 - Computer Network Technology",
+			"310241 - Database Management Systems",
+			"310253 - Software Engineering",
+			"314444 - Operating System Design Lab",
+			"314445 - Information Systems Design Lab",
+			"314446 - Network Lab",
+			"314447 - Soft Skills Lab",
+			"314448 - System Software Programming",
+			"314449 - Management Information Systems",
+			"314450 - Programming Paradigms",
+			"314455 - Design and Analysis of Algorithms",
+			"314451 - Human Computer Interaction and Usability",
+			"314452 - Software Design Lab",
+			"314453 - Software Development Tools Lab",
+			"314454 - Seminar and Technical Communication",
+			"414441 - Information Assurance and Security",
+			"410443 - Object Oriented Modeling and Design",
+			"414442 - Software Testing and Quality Assurance",
+			"414443 - Advanced Operating Systems",
+			"414444 - Mobile Computing",
+			"414441 - Information Assurance and Security Laboratory",
+			"414445 - Computer Lab Practices I",
+			"414446 - Project Work"
+		]
+	}],
+	"awards": [{
+		"title": "Award",
+		"date": "2014-11-01",
+		"awarder": "Company",
+		"summary": "There is no spoon."
+	}],
+	"publications": [{
+		"name": "Publication",
+		"publisher": "Company",
+		"releaseDate": "2014-10-01",
+		"website": "http://publication.com",
+		"summary": "Description..."
+	}],
+	"skills": [{
+		"name": "Programing",
+		"level": "Intermediate",
+		"keywords": [
+			"Java",
+			"C++",
+			"Python",
+			"Shell Script"
+		]
+	},{
+		"name": "Databases",
+		"level": "Intermediate",
+		"keywords": [
+			"SQL",
+			"MySQL",
+			"MongoDB"
+		]
+	},{
+		"name": "Web Development",
+		"level": "Intermediate",
+		"keywords": [
+			"HTML",
+			"CSS",
+			"Javascript",
+			"NodeJS"
+		]
+	},{
+		"name": "Tools / Technologies",
+		"level": "Intermediate",
+		"keywords": [
+			"Postman",
+			"JMeter",
+			"qTest",
+			"Rancher",
+			"Jenkins",
+			"AWS",
+			"Git",
+			"RabbitMQ",
+			"Splunk",
+			"Unix"
+		]
+	}],
+	"languages": [{
+		"language": "English",
+		"fluency": "Native speaker"
+	},{
+		"language": "Marathi",
+		"fluency": "Native speaker"
+	},{
+		"language": "Hindi",
+		"fluency": "Professional"
+	}],
+	"interests": [{
+		"name": "Technology",
+		"keywords": [
+			"Apple Inc",
+			"AR/VR",
+			"Self Driving Cars"
+		]
+	},{
+		"name": "Photography",
+		"keywords": [
+			"Wild-life",
+			"Nature"
+		]
+	}],
+	"references": [{
+		"name": "Angelo",
+		"reference": "Reference email..."
+	},{
+		"name": "Alap",
+		"reference": "Reference email..."
+	}]
+}
